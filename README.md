@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asfandyar Saeed
 =======================================================================================================================================
 
-I help Customers understand and Grow via data
+I help Customers understand and Grow Business via data
 ---------------------------------------------
 
 \* I have been working in data generation department CBS (Convergent Billing System) and VAS (Value Added Service) in Huawei for 2.3 Years.<br> \* I have working experience with CDR analysis, System Health analysis, and New development testing and analysis.<br>  \* I am presently working as Data Engineer for 2 years with one of the biggest telecom clients named Telenor for developing systems and automating workload.<br>  \* To enhance my technical skill I have always been working on exploring different platforms and completed number of certification few of which are as below.<br>  \* DataBricks Data Lake fundamental Certification.<br>  \* DataBricks Certified Associate Data Engineer.<br>  \* DataBricks Certified Spark Developer Associate.<br>  \* Azure AI Fundamentals.<br>  \* DBT Fundamental Certfied.<br>  \* HCIA-AI (Huawei Certified AI).<br>  \* HCIA-Security.<br>  \* Block Chain Specialization Certified
