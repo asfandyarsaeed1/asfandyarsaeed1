@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I help Customers understand and Grow via data
 ---------------------------------------------
 
-\* I have been working in data generation department CBS (Convergent Billing System) and VAS (Value Added Service) in Huawei for 2.3 Years. <br>\* I have working experience with CDR analysis, System Health analysis, and New development testing and analysis. <br>\* I am presently working as Data Engineer for 2 years with one of the biggest telecom clients named Telenor for developing systems and automating workload.
+\* I have been working in data generation department CBS (Convergent Billing System) and VAS (Value Added Service) in Huawei for 2.3 Years. \* I have working experience with CDR analysis, System Health analysis, and New development testing and analysis. \* I am presently working as Data Engineer for 2 years with one of the biggest telecom clients named Telenor for developing systems and automating workload. \* To enhance my technical skill I have always been working on exploring different platforms. \* DataBricks Data Lake fundamental Certification. \* DataBricks Certified Associate Data Engineer. \* DataBricks Certified Spark Developer Associate. \* Azure AI Fundamentals \* DBT Fundamental Certfied. \* HCIA-AI (Huawei Certified AI) \* HCIA-Security \* Block Chain Specialization Certified
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [asfandyarsaeed@hotmail.com](mailto:asfandyarsaeed@hotmail.com)
@@ -15,9 +15,9 @@ I help Customers understand and Grow via data
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
