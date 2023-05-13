@@ -8,7 +8,7 @@ I help Customers understand and Grow Business via data
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [asfandyarsaeed@hotmail.com](mailto:asfandyarsaeed@hotmail.com)
-* 🤝  I'm open to collaborating on Sentiment Analysis
+* 🤝  I'm open to collaborating on Data Science and Data Engineering Project
 
 ### Skills
 
