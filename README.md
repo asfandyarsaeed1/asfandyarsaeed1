@@ -37,3 +37,5 @@ I help Customers understand and Grow Business via data
 <img src="/DE Associate.PNG" alt="DE_Associate Badge" style="width: 195px; height: 195px;">
 <img src="/spark.PNG" alt="Spark Developer Badge" style="width: 195px; height: 195px;">
 <img src="/AI.PNG" alt="AI Fundamental Badge" style="width: 195px; height: 195px;">
+<img src="/HCIA_AI.jpg" alt="AI Fundamental Badge" style="width: 195px; height: 195px;">
+<img src="/Security.PNG" alt="HCIA Badge" style="width: 195px; height: 195px;">
