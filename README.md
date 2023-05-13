@@ -36,3 +36,4 @@ I help Customers understand and Grow Business via data
 <img src="/fundamental.PNG" alt="Fundamental Badge" style="width: 195px; height: 195px;">
 <img src="/DE Associate.PNG" alt="DE_Associate Badge" style="width: 195px; height: 195px;">
 <img src="/spark.PNG" alt="Spark Developer Badge" style="width: 195px; height: 195px;">
+<img src="/AI.PNG" alt="AI Fundamental Badge" style="width: 195px; height: 195px;">
