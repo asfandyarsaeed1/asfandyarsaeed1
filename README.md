@@ -35,7 +35,7 @@ I help Customers understand and Grow Business via data
 <a href="http://www.github.com/asfandyarsaeed1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asfandyarsaeed1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <img src="/fundamental.PNG" alt="Fundamental Badge" style="width: 195px; height: 195px;">
 <img src="/DE Associate.PNG" alt="DE_Associate Badge" style="width: 195px; height: 195px;">
-<img src="/spark.PNG" alt="Spark Developer Badge" style="width: 195px; height: 195px;">
+<img src="/Spark Developer Specializaton.png" alt="Spark Developer Badge" style="width: 195px; height: 195px;">
 <img src="/AI.PNG" alt="AI Fundamental Badge" style="width: 195px; height: 195px;">
 <img src="/HCIA_AI.jpg" alt="AI Fundamental Badge" style="width: 195px; height: 195px;">
 <img src="/Security.PNG" alt="HCIA Badge" style="width: 195px; height: 195px;">
