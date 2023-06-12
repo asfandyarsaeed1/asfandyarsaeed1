@@ -39,5 +39,5 @@ I help Customers understand and Grow Business via data
 <img src="/AI.PNG" alt="AI Fundamental Badge" style="width: 195px; height: 195px;">
 <img src="/HCIA_AI.jpg" alt="AI Fundamental Badge" style="width: 195px; height: 195px;">
 <img src="/Security.PNG" alt="HCIA Badge" style="width: 195px; height: 195px;">
-<img src="/dbt.PNG" alt="DBT FUndamental Badge" style="width: 205px; height: 195px;">
+<img src="/DBT.png" alt="DBT FUndamental Badge" style="width: 205px; height: 195px;">
 <img src="/Databrick Analyst.png" alt="DataBrick Certified Analyst Badge" style="width: 205px; height: 195px;">
